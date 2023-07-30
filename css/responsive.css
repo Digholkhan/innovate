@@ -1,0 +1,450 @@
+@media  (max-width:320.98px){
+    #banner-part {
+        padding-top: 140px;
+        padding-bottom: 60px;
+    }
+    .banner-text h1 {
+        font-size: 25px;
+    }
+    .banner-text p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .banner-btn {
+        padding-top: 0px;
+    }
+    .banner-btn-1 {
+        padding: 10px 15px;
+        font-size: 13px;
+        margin-right: 10px;
+    }
+    .banner-btn-2 {
+        padding: 10px 15px;
+        font-size: 13px;
+    }
+    #counter-part {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    .counter-text {
+        border-right: none;
+    }
+    .counter-text h2 {
+        font-size: 35px;
+    }
+    .counter-text h3 {
+        font-size: 20px;
+    }
+    .counter-text {
+        margin-bottom: 20px;
+    }
+    #choose-part{
+        padding: 25px;
+    }
+    .choose-left {
+        padding: 15px 0px 0px 14px;
+    }
+    .choose-left:hover {
+        padding: 20px 0px 20px 15px;
+    }
+    .choose-left p {
+        width: auto;
+        line-height: 20px;
+        font-size: 13px;
+    }
+    .choose-right {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .choose-right h2 {
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    .choose-right p {
+        margin: 0 auto;
+        font-size: 13px;
+        line-height: 20px;
+        padding-top: 0px;
+        padding-bottom: 20px;
+        width: auto;
+    }
+    .choose-btn button {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+    #what-we-do-part {
+        padding: 30px 0px;
+    }
+    .what-we-do-text{
+        text-align: center;
+    }
+    .what-we-do-text p {
+        margin: 0 auto;
+        font-size: 14px;
+        line-height: 25px;
+        padding-top: 5px;
+        padding-bottom: 20px;
+        width: auto;
+    }
+    .what-we-do-text h2 {
+        font-size: 30px;
+    }
+    .what-we-do-btn button {
+        padding: 10px 20px;
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .service-box p {
+        font-size: 15px;
+        width: auto;
+    }
+    #Create-impact {
+        padding: 50px 0px;
+    }
+    .Create-impact-header h2{
+        font-size: 36px;
+    }
+    .Create-impact-header p {
+        padding-top: 15px;
+        padding-bottom: 30px;
+        font-size: 16px;
+        width: auto;
+    }
+    .Create-impact-left {
+        margin-top: 25px;
+    }
+    .Create-impact-left {
+        text-align: center;
+    }
+    .Create-impact-left p {
+        width: auto;
+        font-size: 15px;
+        padding: 0px 20px;
+    }
+    .Create-impact-right img {
+        width: 100%;
+    }
+    #choose-plan {
+        padding: 50px 0px;
+    }
+    .choose-plan-header h2 {
+        font-size: 36px;
+    }
+    .choose-plan-box p {
+        width: auto;
+        padding: 0px 10px 50px 10px;
+        font-size: 15px;
+    }
+    .think-about-header h2 {
+        font-size: 36px;
+    }
+    #think-about {
+        padding: 50px 0px;
+    }
+    .think-about-header img {
+        left: 48%;
+        top: 9.5rem;
+        width: 40%;
+    }
+    .think-about-card i {
+        font-size: 16px;
+        padding-top: 80px;
+    }
+    .think-about-card p {
+        font-size: 16px;
+        line-height: 30px;
+        padding: 20px 10px 24px 10px;
+        width: auto;
+    }
+    .think-about-card h5 {
+        font-size: 25px;
+    }
+    .think-about-card h6 {
+        font-size: 12px;
+        padding-bottom: 40px;
+    }
+    #You-may-like {
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+    .You-may-like-header h2 {
+        font-size: 36px;
+        text-align: center;
+    }
+    .You-may-like-text {
+        padding: 0px 10px;
+    }
+    .You-may-like-text ul {
+        width: auto;
+        font-size: 12px;
+    }
+    .You-may-like-text h5 {
+        line-height: 30px;
+        font-size: 20px;
+        width: auto;
+        padding-top: 0px;
+    }
+    .You-may-like-text a {
+        font-size: 13px;
+        padding: 5px 10px;
+        margin-top: 8px;
+    }
+    #footer-part {
+        padding-top: 50px;
+    }
+    .footer-top {
+        text-align: center;
+    }
+    .footer-top p {
+        font-size: 16px;
+        width: auto;
+        padding-top: 20px;
+    }
+    .footer-top h6 {
+        font-size: 20px;
+        padding-bottom: 5px;
+        padding-top: 25px;
+    }
+    .footer-ul{
+        width: auto;
+        margin: 0 auto;
+    }
+    .footer-top li {
+        font-size: 14px;
+        line-height: 30px;
+    }
+    .footer-bottom {
+        padding-top: 40px;
+        padding-bottom: 30px;
+        font-size: 13px;
+    }
+    .footer-bottom-right :first-child {
+        padding-right: 10px;
+    }
+}
+
+/* ========================================================================================================= */
+
+@media (max-width:575.98px) and (min-width:320.98px) {
+    #banner-part {
+        padding-top: 185px;
+        padding-bottom: 117px;
+    }
+    .banner-text h1 {
+        font-size: 45px;
+    } 
+    .banner-text p {
+        font-size: 15px;
+        line-height: 31px;
+    }
+    .banner-btn-1 {
+        padding: 15px 30px;
+        font-size: 16px;
+        margin-right: 20px;
+    }
+    .banner-btn-2 {
+        padding: 16px 31px;
+        font-size: 16px;
+    }
+    #counter-part {
+        padding-top: 55px;
+        padding-bottom: 35px;
+    }
+    .counter-text {
+        border-right: none;
+    }
+    .counter-text h2 {
+        font-size: 40px;
+    }
+    .counter-text h3 {
+        font-size: 24px;
+    }
+    .counter-text {
+        margin-bottom: 24px;
+    }
+    #choose-part{
+        padding: 50px;
+    }
+    .choose-left {
+        padding: 15px 0px 0px 14px;
+    }
+    .choose-part-element img {
+        width: 100%;
+    }
+    .choose-left p {
+        line-height: 25px;
+        font-size: 16px;
+    }
+    .choose-right {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .choose-right h2 {
+        font-size: 36px;
+        margin-top: 30px;
+    }
+    .choose-right p {
+        margin: 0 auto;
+        font-size: 15px;
+        padding-top: 0px;
+        padding-bottom: 20px;
+        width: auto;
+    }
+    .choose-btn button {
+        padding: 15px 30px;
+        font-size: 16px;
+    }
+    #what-we-do-part{
+        padding: 50px;
+    }
+    .what-we-do-text{
+        text-align: center;
+    }
+    .what-we-do-text p {
+        margin: 0 auto;
+        font-size: 16px;
+        line-height: 28px;
+        padding-top: 15px;
+        padding-bottom: 20px;
+        width: auto;
+    }
+    .what-we-do-text h2 {
+        font-size: 36px;
+    }
+    .what-we-do-btn button {
+        padding: 15px 30px;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .service-box p {
+        font-size: 15px;
+        width: auto;
+    }
+    #Create-impact {
+        padding: 50px 0px;
+    }
+    .Create-impact-header h2{
+        font-size: 36px;
+    }
+    .Create-impact-header p {
+        padding-top: 15px;
+        padding-bottom: 30px;
+        font-size: 16px;
+        width: auto;
+    }
+    .Create-impact-left {
+        margin-top: 25px;
+    }
+    .Create-impact-left {
+        text-align: center;
+    }
+    .Create-impact-left p {
+        width: auto;
+        font-size: 15px;
+        padding: 0px 20px;
+    }
+    .Create-impact-right img {
+        width: 100%;
+    }
+    #choose-plan {
+        padding: 50px 0px;
+    }
+    .choose-plan-header h2 {
+        font-size: 36px;
+    }
+    .choose-plan-box {
+        margin: 50px 50px 0px 50px;
+    }
+    .choose-plan-box p {
+        width: auto;
+        padding: 0px 10px 50px 10px;
+        font-size: 15px;
+    }
+    .think-about-header h2 {
+        font-size: 36px;
+    }
+    #think-about {
+        padding: 50px 0px;
+    }
+    .think-about-header img {
+        left: 48%;
+        top: 9.5rem;
+        width: 40%;
+    }
+    .think-about-card i {
+        font-size: 16px;
+        padding-top: 80px;
+    }
+    .think-about-card p {
+        font-size: 16px;
+        line-height: 30px;
+        padding: 20px 10px 24px 10px;
+        width: auto;
+    }
+    .think-about-card h5 {
+        font-size: 25px;
+    }
+    .think-about-card h6 {
+        font-size: 12px;
+        padding-bottom: 40px;
+    }
+    #You-may-like {
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+    .You-may-like-header h2 {
+        font-size: 36px;
+        text-align: center;
+    }
+    .You-may-like-img {
+        padding: 50px;
+    }
+    .You-may-like-text {
+        padding: 0px 50px;
+    }
+    .You-may-like-text ul {
+        width: auto;
+        font-size: 14px;
+    }
+    .You-may-like-text h5 {
+        line-height: 35px;
+        font-size: 24px;
+        width: auto;
+    }
+    .You-may-like-text a {
+        font-size: 16px;
+        padding: 6px 10px;
+    }
+    #footer-part {
+        padding-top: 50px;
+    }
+    .footer-top {
+        text-align: center;
+    }
+    .footer-top p {
+        font-size: 16px;
+        width: auto;
+        padding-top: 20px;
+    }
+    .footer-top h6 {
+        font-size: 20px;
+        padding-bottom: 5px;
+        padding-top: 25px;
+    }
+    .footer-ul{
+        width: auto;
+        margin: 0 auto;
+    }
+    .footer-top li {
+        font-size: 14px;
+        line-height: 30px;
+    }
+    .footer-bottom {
+        padding-top: 40px;
+        padding-bottom: 30px;
+        font-size: 13px;
+    }
+    .footer-bottom-right :first-child {
+        padding-right: 10px;
+    }
+}
